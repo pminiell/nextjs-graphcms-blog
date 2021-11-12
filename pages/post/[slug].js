@@ -6,8 +6,6 @@ import {
   Categories,
   PostWidget,
   Author,
-  Comments,
-  CommentForm,
 } from "../../components";
 
 const PostDetails = ({ post }) => {
